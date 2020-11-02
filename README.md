@@ -1,4 +1,4 @@
-# exam-fullstack
+# Fullstack
 
 # Backend Path
 ### 1.Solve Problem
@@ -140,7 +140,8 @@ Output
 
 
 # Frontend Path
-
+- สามารถใช้ Vue, React, Angular หรือ Framework ใดๆ ในการทำข้อสอบได้
+- สามารถใช้ CSS Framework หรือ custom CSS เองได้
 
 
 ## Problem ?
